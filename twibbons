@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
       "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78",
@@ -29,7 +29,7 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
+      "category": "Islami",
       "image_link": "frame/idul.webp"
 
     },
@@ -44,7 +44,7 @@
 
     },
     {
-      "category": "Lainnya",
+      "category": "General",
       "image_link": "frame/ribut.webp"
 
     }
@@ -53,13 +53,13 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "Islami",
+      "title": "Nisfu Syaban",
+      "image_link": "https://archive.org/download/5_20230310_20230310_1508/5.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
+      "category": "Islami",
       "title": "Idul Fitri",
       "image_link": "frame/idul.webp"
     },
@@ -95,18 +95,24 @@
     },
     {
       "id": 8,
+      "category": "Islami",
+      "title": "Nisfu Syaban v1",
+      "image_link": "https://archive.org/download/5_20230310_20230310_1508/6.png"
+    },,
+    {
+      "id": 9,
       "category": "Lainnya",
       "title": "Ribut Bikin Kangen",
       "image_link": "frame/ribut.webp"
-    },
+    }
     {
-      "id": 9,
+      "id": 10,
       "category": "Hari Nasional",
       "title": "Hari Santri Nasional",
       "image_link": "frame/santri2.webp"
     },
     {
-      "id": 10,
+      "id": 11,
       "category": "Lainnya",
       "title": "Ayo Divaksin",
       "image_link": "frame/vaksin.webp"
