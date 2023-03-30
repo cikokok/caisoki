@@ -1,4 +1,6 @@
- {"Ads": [
+{
+  "Ads": 
+  [
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
@@ -12,7 +14,6 @@
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
-      "on_off_native_listview":"",
       "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -28,23 +29,33 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
+      "category": "Hari Besar Nasional",
+      "image_link": "rectangle/farmasi.png"
 
     },
     {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "Lain-Lain",
+      "image_link": "rectangle/imlek1.png"
 
     },
     {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "Religi",
+      "image_link": "rectangle/israa.png"
 
     },
     {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "category": "Kalender",
+      "image_link": "rectangle/kalender1.png"
+
+    },
+    {
+      "category": "Undangan",
+      "image_link":  "portrait/wedding2.png"
+
+    },
+    {
+      "category": "Brosur",
+      "image_link":  "portrait/cuci.png"
 
     }
   ],
@@ -52,65 +63,202 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "type": 1,
+      "category": "Hari Besar Nasional",
+      "title": "Hari Persatuan Farmasi Indonesia",
+      "image_link": "rectangle/farmasi.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "type": 1,
+      "category": "Hari Besar Nasional",
+      "title": "Hari Persatuan Farmasi Indonesia 2",
+      "image_link": "rectangle/farmasi2.png"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Selamat Tahun Baru Imlek",
+      "image_link": "rectangle/imlek1.png"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Selamat Tahun Baru Imlek 2",
+      "image_link": "rectangle/imlek2.png"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "type": 1,
+      "category": "Religi",
+      "title": "Peringatan Isra Mi'raj 1",
+      "image_link": "rectangle/israa.png"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
+      "type": 1,
+      "category": "Religi",
+      "title": "Peringatan Isra Mi'raj 2",
+      "image_link": "rectangle/israb.png"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
+      "type": 1,
+      "category": "Kalender",
+      "title": "Kalender BTS Maret 2022",
+      "image_link": "rectangle/kalender1.png"
     },
     {
       "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
+      "type": 1,
+      "category": "Kalender",
+      "title": "Kalender BTS Mei 2022",
+      "image_link": "rectangle/kalender2.png"
     },
     {
       "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Harlah NU ke-96",
+      "image_link": "rectangle/nu1.webp"
     },
     {
       "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "frame/vaksin.webp"
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Harlah NU ke-96 2",
+      "image_link": "rectangle/nu2.webp"
     }
-
-
+  ,
+    {
+      "id": 11,
+      "type": 1,
+      "category": "Hari Nasional",
+      "title": "Hari Pers Nasional",
+      "image_link": "rectangle/pers.png"
+    },
+    {
+      "id": 12,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "1 Tahun Maintenance Vtube",
+      "image_link": "rectangle/vtube1.png"
+    },
+    {
+      "id": 13,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "1 Tahun Maintenance Vtube",
+      "image_link": "rectangle/vtube2.png"
+    },
+    {
+      "id": 14,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Imlek",
+      "image_link": "rectangle/wallpaper_imlek.png"
+    },
+    {
+      "id": 19,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Imlek 2",
+      "image_link": "rectangle/wallpaper_imlek2.png"
+    },
+    {
+      "id": 15,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Isra Mi'raj",
+      "image_link": "rectangle/wallpaper_isra.png"
+    },
+    {
+      "id": 16,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Isra Mi'raj 2",
+      "image_link": "rectangle/wallpaper_isra2.png"
+    }
+  ,
+    {
+      "id": 17,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Hari Pers",
+      "image_link": "rectangle/wallpaper_pers.png"
+    },
+    {
+      "id": 18,
+      "type": 1,
+      "category": "Lain-Lain",
+      "title": "Wallpaper Hari Pers",
+      "image_link": "rectangle/wallpaper_pers2.png"
+    },
+    {
+      "id": 20,
+      "type": 2,
+      "category": "Brosur",
+      "title": "Kehilangan Anjing",
+      "image_link": "portrait/dog.png"
+    },
+    {
+      "id": 21,
+      "type": 2,
+      "category": "Brosur",
+      "title": "Pamflet Orderan Ojol",
+      "image_link": "portrait/ojol.png"
+    }
+  ,
+    {
+      "id": 22,
+      "type": 2,
+      "category": "Lain-Lain",
+      "title": "Ucapan Selamat",
+      "image_link": "portrait/selamat.png"
+    },
+    {
+      "id": 24,
+      "type": 2,
+      "category": "Brosur",
+      "title": "Iklan Laundry",
+      "image_link": "portrait/cuci.png"
+    },
+    {
+      "id": 25,
+      "type": 2,
+      "category": "Undangan",
+      "title": "Undangan Pernikahan",
+      "image_link": "portrait/wedding.png"
+    },
+    {
+      "id": 25,
+      "type": 2,
+      "category": "Undangan",
+      "title": "Undangan Pernikahan",
+      "image_link": "portrait/wedding2.png"
+    },
+    {
+      "id": 26,
+      "type": 2,
+      "category": "Undangan",
+      "title": "Undangan Ulang Tahun",
+      "image_link": "portrait/ultah.png"
+    },
+    {
+      "id": 27,
+      "type": 2,
+      "category": "Undangan",
+      "title": "Undangan Ulang Tahun",
+      "image_link": "portrait/ultah2.png"
+    },
+    {
+      "id": 28,
+      "type": 2,
+      "category": "Brosur",
+      "title": "Desain Flyer",
+      "image_link": "portrait/brosur.png"
+    }
   ]
 }
