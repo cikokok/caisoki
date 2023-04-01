@@ -4,13 +4,13 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "main_ads_banner": "ca-app-pub-4155235628040611/3830756535",
+      "main_ads_intertitial":"ca-app-pub-4155235628040611/8341240129",
+      "main_ads_natives":"ca-app-pub-4155235628040611/2208637380",
+      "backup_ads_natives":"ca-app-pub-4155235628040611/2208637380",
+      "backup_ads_banner":"db4d5e8718b97d78@",
+      "backup_ads_intertitial":"518cd97722c60b52@",
+      "open_ads_admob":"ca-app-pub-4155235628040611/9266916043",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"",
@@ -259,6 +259,41 @@
       "category": "Brosur",
       "title": "Desain Flyer",
       "image_link": "portrait/brosur.png"
+    },
+    {
+      "id": 29,
+      "type": 1,
+      "category": "Religi",
+      "title": "Idul Fitri 2023",
+      "image_link": "https://archive.org/download/2_20230401_20230401_1454/1.png"
+    },
+    {
+      "id": 30,
+      "type": 1,
+      "category": "Religi",
+      "title": "Idul Fitri 2023",
+      "image_link": "https://archive.org/download/2_20230401_20230401_1454/2.png"
+    },
+    {
+      "id": 31,
+      "type": 1,
+      "category": "Religi",
+      "title": "Idul Fitri 2023",
+      "image_link": "https://archive.org/download/2_20230401_20230401_1454/3.png"
+    },
+    {
+      "id": 33,
+      "type": 1,
+      "category": "Religi",
+      "title": "Idul Fitri 2023",
+      "image_link": "https://archive.org/download/2_20230401_20230401_1454/4.png"
+    },
+    {
+      "id": 34,
+      "type": 1,
+      "category": "Religi",
+      "title": "Idul Fitri 2023",
+      "image_link": "https://archive.org/download/2_20230401_20230401_1454/5.png"
     }
   ]
 }
